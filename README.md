@@ -15,14 +15,15 @@ at last we also worked on wall following
 In this ,i divided whole arena into nodes shown in pdf (image of arena). I started first node as a 0 and last node as a 15(total 16 nodes) .Counting is started from left lower side and end at right upper side.
 
 ### Video link--
- <a href="https://youtu.be/pxJVUJepiiM">Testing Video</a>
+##<a href="https://youtu.be/pxJVUJepiiM">Testing Video</a>
+  
+  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pxJVUJepiiM/0.jpg)](https://www.youtube.com/watch?v=pxJVUJepiiM)
+
  
- <a href="https://www.youtube.com/watch?v=jAtZT2TRFyk" > Task run </a>
- 
- https://www.youtube.com/watch?v=jAtZT2TRFyk
+
  
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jAtZT2TRFyk/0.jpg)](https://www.youtube.com/watch?v=jAtZT2TRFyk)
  
 
-<iframe width="967" height="544" src="https://www.youtube.com/embed/kXy0ABd1vwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
