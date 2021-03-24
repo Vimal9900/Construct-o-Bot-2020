@@ -29,9 +29,4 @@ In this ,i divided whole arena into nodes shown in pdf (image of arena). I start
  
  
  
- 
-     <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
